@@ -1,0 +1,3 @@
+model,validation_average_precision
+logistic_regression,0.6971470262743039
+random_forest,0.8600076749844797
